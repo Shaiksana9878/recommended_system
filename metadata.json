@@ -1,0 +1,8 @@
+{
+  "name": "TechReel AI",
+  "description": "AI-Powered Personalized Technology Reel Recommendation Platform that translates short-form scrolling habits into meaningful software engineering, tech discovery, and career growth recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
